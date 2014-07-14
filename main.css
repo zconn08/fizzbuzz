@@ -1,0 +1,17 @@
+input {
+	height: 30px;
+	width: 200px;
+	float: left;
+	margin-bottom: 20px;
+}
+
+.submit {
+	height: 35px;
+	width: 100px;
+	float: left;
+	margin-left: 10px;
+}
+
+ul {
+	clear:both;
+}
